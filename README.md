@@ -1,8 +1,7 @@
 # VTK Show 2016
-Dit is de website die de geprojecteerd zal worden als achtergrond op de VTK Show.   
-Alles is met javascipt geanimeerd met voorgemaakte mockup foto's.
+This is the project that was uased as backdrop pjoection for VTK Show 2016
 
-First install install all necessary packages specified by package.json by executing: `npm install`   
+First install all necessary packages specified by package.json by executing: `npm install`   
 Then you can start the app: `npm start`   
 And visit in a browser at `localhost:3000`
 
